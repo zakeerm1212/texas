@@ -1,2 +1,2 @@
 # texas
-texas repository
+texas repository for git command demostration
